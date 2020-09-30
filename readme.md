@@ -35,7 +35,7 @@ Ini merupakan sistem yang membantu UD. Harco Elektronik Authorized Daikin dan Sa
 	 * Menanda tangani surat perintah kerja lewat sistem
 	 * Melihat Rekapan Laporan Service
 	 
-## Link : [Serive-Harco.com](https://service-harco.000webhostapp.com/)
+## Link : [Service-Harco.com](https://service-harco.000webhostapp.com/)
 
 Jangan lupa follow untuk kontak, bertanya dan bersilaturahmi 
 * [Instagram](https://www.instagram.com/yusufmokong/)
